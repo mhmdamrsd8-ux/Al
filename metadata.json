@@ -1,0 +1,6 @@
+{
+  "name": "X AI Studio",
+  "description": "منصة ذكاء اصطناعي احترافية لإنشاء وتطوير المشاريع البرمجية بالكامل ومعاينتها فورياً على مختلف الأجهزة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
